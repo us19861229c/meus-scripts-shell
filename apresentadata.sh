@@ -1,5 +1,5 @@
 #!/bin/bash
-#Eu sou Tryber e...
+# Vou ter muito sucesso em programação!
 datadehoje=`date +%d/%m/%y`
 horadehoje=`date +%H:%M`
 
